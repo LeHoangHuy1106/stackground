@@ -1,0 +1,386 @@
+{
+  "D:\\PROJECT\\stackground\\assets\\Animation": {
+    "time": 1694665341049.4177,
+    "uuid": "ca970d3f-1a92-44bd-8a89-a88a76decc5a",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio": {
+    "time": 1694665341195.4348,
+    "uuid": "30f0dfda-9162-4b49-b075-b835a4b73949",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\font": {
+    "time": 1694665341209.4312,
+    "uuid": "03711e22-af8f-40db-a51f-d43aa5eb9c1b",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Prefabs": {
+    "time": 1694665341226.4175,
+    "uuid": "5796ebdd-9b8a-47df-9c62-4dff6cd3829a",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes": {
+    "time": 1694665341251.421,
+    "uuid": "db1d842a-b690-40f2-b704-43c852d68312",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts": {
+    "time": 1694665341425.4314,
+    "uuid": "98e8eaf2-eb46-4c4b-af2b-16263fc09312",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites": {
+    "time": 1694665341504.736,
+    "uuid": "ac8c792a-e19d-4b15-9986-dec89dc6aeb0",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Animation\\Main": {
+    "time": 1694665341150.4165,
+    "uuid": "946605f8-7c62-4562-9c14-cbd61ea94785",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\MainScene": {
+    "time": 1694665341247.421,
+    "uuid": "0ef3a5de-921c-4be6-b9b9-041e5f2778ff",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene": {
+    "time": 1694665341268.4302,
+    "uuid": "58384327-ad57-4677-90d0-de07272f4e3c",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention": {
+    "time": 1694665341422.4185,
+    "uuid": "e9116a4b-61f8-4676-aec2-df593e80e7dc",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes": {
+    "time": 1694665341442.4155,
+    "uuid": "d31fb7ff-0682-446b-9f25-68075c2412f9",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\prefabs": {
+    "time": 1694665341265.4153,
+    "uuid": "0b054d58-f634-4ad5-9e74-9107a0b9ff51",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\Scenes": {
+    "time": 1694665341274.4314,
+    "uuid": "1210ec90-af64-40ee-92e4-68e57104137d",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Main": {
+    "time": 1694665341438.422,
+    "uuid": "8b0037f6-713d-4333-9ce0-1985cb6c8fa9",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play": {
+    "time": 1694665341456.9646,
+    "uuid": "2fd38684-4b6f-4418-b8a6-c86197f10aee",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\AudioController.ts": {
+    "time": 1694622874775.921,
+    "uuid": "9353a10c-d63d-448e-97a7-095b8401b6c2",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\BehaviorTree.ts": {
+    "time": 1693390781050.0896,
+    "uuid": "57d04d65-a336-4104-ab7b-f2d75bfc8d6b",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Constants.ts": {
+    "time": 1694624022141.3801,
+    "uuid": "65e60962-6dfc-4721-9cdb-a2445cc840e3",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Continuous.ts": {
+    "time": 1692590460259.1426,
+    "uuid": "22fe4021-c863-4e1c-beea-4d089e732370",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\DataManager.ts": {
+    "time": 1692674907545.6887,
+    "uuid": "ea5d4337-cdf5-478b-8b2a-f992173c7045",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\DeactiveGround.ts": {
+    "time": 1694546211808.3977,
+    "uuid": "4051ef94-7303-415f-9fb5-378d22618121",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Extention.ts": {
+    "time": 1692857263196.3816,
+    "uuid": "49ff55ef-5458-4f56-bef7-7136fe64cb40",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Joystick.ts": {
+    "time": 1693366392097.7422,
+    "uuid": "7f7d6261-da5c-4437-b6a0-1ce23f218a93",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Loading.ts": {
+    "time": 1694168175055.4297,
+    "uuid": "49a7dd54-0971-4427-8bcf-ce27316c3d84",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\NodeCustom.ts": {
+    "time": 1694623223489.9744,
+    "uuid": "eee9fdc3-948f-4eb2-9f6a-31dbbc2eb25b",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\ObjectPool.ts": {
+    "time": 1692766619934.141,
+    "uuid": "457cd22e-d0be-44f8-b8a2-05e0975fe165",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\StoreAPI.ts": {
+    "time": 1692602804117.4153,
+    "uuid": "61f59757-c71f-4eff-84ca-25402b5f73c8",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Main\\MainScene.ts": {
+    "time": 1694624439398.4453,
+    "uuid": "7ba0e865-b0d5-418a-b282-385378f7372c",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\Controller.ts": {
+    "time": 1694623705465.8203,
+    "uuid": "3fd017a2-4dbb-459b-b531-fb9d3b7164f5",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\Ground.ts": {
+    "time": 1694533256495.3767,
+    "uuid": "cf032918-c881-4e55-8f09-9e6c5e601a49",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\View.ts": {
+    "time": 1694609474196.7698,
+    "uuid": "b83729e8-4aa7-4010-8c28-69efabcab5cb",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Animation.meta": {
+    "time": 1694369124740.5261
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio.meta": {
+    "time": 1694621819488.145
+  },
+  "D:\\PROJECT\\stackground\\assets\\font.meta": {
+    "time": 1694369267202.0376
+  },
+  "D:\\PROJECT\\stackground\\assets\\Prefabs.meta": {
+    "time": 1694622038508.6973
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes.meta": {
+    "time": 1694367769960.5894
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts.meta": {
+    "time": 1694367769960.5894
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites.meta": {
+    "time": 1694368069574.507
+  },
+  "D:\\PROJECT\\stackground\\assets\\Animation\\Main.meta": {
+    "time": 1694369133385.1409
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\MainScene.meta": {
+    "time": 1694367769961.5842
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene.meta": {
+    "time": 1694367769961.5842
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention.meta": {
+    "time": 1694367769962.5876
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes.meta": {
+    "time": 1694369545721.5808
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\prefabs.meta": {
+    "time": 1694439817577.073
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\Scenes.meta": {
+    "time": 1694439786656.1624
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Main.meta": {
+    "time": 1694369552276.7615
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play.meta": {
+    "time": 1694369557353.3037
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\AudioController.ts.meta": {
+    "time": 1692330997435.8384
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\BehaviorTree.ts.meta": {
+    "time": 1693389326864.7646
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Constants.ts.meta": {
+    "time": 1691576481728.4785
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Continuous.ts.meta": {
+    "time": 1692000504883.2217
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\DataManager.ts.meta": {
+    "time": 1692343794524.5723
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\DeactiveGround.ts.meta": {
+    "time": 1694543452026.5735
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Extention.ts.meta": {
+    "time": 1692852898382.4211
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Joystick.ts.meta": {
+    "time": 1693304411287.7207
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\Loading.ts.meta": {
+    "time": 1692264510855.3418
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\NodeCustom.ts.meta": {
+    "time": 1692583127654.558
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\ObjectPool.ts.meta": {
+    "time": 1691405979177.161
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Extention\\StoreAPI.ts.meta": {
+    "time": 1692602762356.229
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Main\\MainScene.ts.meta": {
+    "time": 1694369567237.4443
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\Controller.ts.meta": {
+    "time": 1694370314038.9421
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\Ground.ts.meta": {
+    "time": 1694370327421.222
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scripts\\Scenes\\Play\\View.ts.meta": {
+    "time": 1694609393587.8413
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\button.mp3": {
+    "time": 1694621407226.4429,
+    "uuid": "02fe22df-2efb-45b0-8164-09a7ea8573f9",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\good.mp3": {
+    "time": 1694621449560.7795,
+    "uuid": "d2f2d714-e93f-4302-8d09-cdba10c37854",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\music.mp3": {
+    "time": 1694621341481.4207,
+    "uuid": "cf00900c-aa18-4e6c-b884-e350d3ffbc1e",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\normal.mp3": {
+    "time": 1694621787983.1526,
+    "uuid": "1e66068a-4e14-4084-9c97-18782cdd0934",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\over.mp3": {
+    "time": 1694621465215.9604,
+    "uuid": "1109d4f9-e5ee-422b-80ea-2adb2391dfeb",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\font\\Rowdies-Regular.ttf": {
+    "time": 1694148107531.7412,
+    "uuid": "4ab7d6d4-87b3-4912-a6a3-ac4cf907290d",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Prefabs\\Audio.prefab": {
+    "time": 1694622799767.1829,
+    "uuid": "ea5280d8-e766-49b1-ac1d-95d16802cdf5",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\bacgkround.jpg": {
+    "time": 1694610017803.7437,
+    "uuid": "6f0edca4-a1e0-4973-a140-68ba5b32c451",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\btn play.png": {
+    "time": 1694369092704.8828,
+    "uuid": "d384e3f8-14fc-441a-87df-f642677be4e2",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\buttons.png": {
+    "time": 1694367588655.138,
+    "uuid": "835d3432-b169-498d-a683-bceeabbb9a44",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\ground.png": {
+    "time": 1694610779450.738,
+    "uuid": "39252d44-59c4-4aba-8b14-91f113457f86",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\title.png": {
+    "time": 1694368465540.8933,
+    "uuid": "ad53138e-9198-4ce7-b704-d063a49a0dc6",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Animation\\Main\\btn_play.anim": {
+    "time": 1694369226394.321,
+    "uuid": "895f83fe-1b3f-416e-b32a-bb5454ca3aa8",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\MainScene\\MainScene.scene": {
+    "time": 1694624931088.9,
+    "uuid": "86c36e3c-5758-4286-8f3f-c0b5df786060",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\prefabs\\ground-001.prefab": {
+    "time": 1694616519195.1685,
+    "uuid": "b2ef557c-754b-4963-a85f-5a7bb0fd2265",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\Scenes\\PlayScene.scene": {
+    "time": 1694694071695.7754,
+    "uuid": "6872e916-75b8-4ea4-ba19-e7d6226f601a",
+    "missing": false
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\button.mp3.meta": {
+    "time": 1694621819897.516
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\good.mp3.meta": {
+    "time": 1694621819898.5188
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\over.mp3.meta": {
+    "time": 1694621819899.519
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\normal.mp3.meta": {
+    "time": 1694621819900.52
+  },
+  "D:\\PROJECT\\stackground\\assets\\Prefabs\\Audio.prefab.meta": {
+    "time": 1694622041385.266
+  },
+  "D:\\PROJECT\\stackground\\assets\\font\\Rowdies-Regular.ttf.meta": {
+    "time": 1694369325650.3076
+  },
+  "D:\\PROJECT\\stackground\\assets\\Audio\\music.mp3.meta": {
+    "time": 1694621819910.5208
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\bacgkround.jpg.meta": {
+    "time": 1694543909907.5098
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\ground.png.meta": {
+    "time": 1694609953460.2456
+  },
+  "D:\\PROJECT\\stackground\\assets\\Animation\\Main\\btn_play.anim.meta": {
+    "time": 1694369141913.6453
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\MainScene\\MainScene.scene.meta": {
+    "time": 1694367804910.8145
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\btn play.png.meta": {
+    "time": 1694369094436.073
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\prefabs\\ground-001.prefab.meta": {
+    "time": 1694439830176.4304
+  },
+  "D:\\PROJECT\\stackground\\assets\\Scenes\\PlayScene\\Scenes\\PlayScene.scene.meta": {
+    "time": 1694369449194.248
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\title.png.meta": {
+    "time": 1694368457013.9634
+  },
+  "D:\\PROJECT\\stackground\\assets\\Sprites\\buttons.png.meta": {
+    "time": 1694368070287.0176
+  }
+}
